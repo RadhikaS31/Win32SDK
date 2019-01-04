@@ -1,0 +1,5 @@
+#include "Icon.h"
+
+SPLASHSCREEN BITMAP SlashScreen.bmp
+
+MY_ICON ICON "MyImage.ico"

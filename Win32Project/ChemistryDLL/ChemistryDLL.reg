@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+[HKEY_CLASSES_ROOT\wow6432node\CLSID{00F3048B-DE1D-4AE7-BE6E-735C46887203}]
+@="MyChemistryDLL"
+[HKEY_CLASSES_ROOT\wow6432node\CLSID\{00F3048B-DE1D-4AE7-BE6E-735C46887203}\InprocServer32]
+@="C:\\Windows\\sysWOW64\\ChemistryDLL.dll"
